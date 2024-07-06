@@ -8,7 +8,7 @@
    - Email (stokesk.swe@gmail.com) 
    - Linkedin (https://www.linkedin.com/in/keith-stokes-swe/)
    - My Website (https://pandabump.github.io/)
-   - Discord 
+   - Discord (biigbass)
 
 <!---
 PandaBump/PandaBump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
