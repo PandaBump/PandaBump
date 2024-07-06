@@ -1,9 +1,14 @@
-- 👋 Hello, world!  My name is Keith.
--  After 7+ years of self-learning and gaining structured proficiency in several coding languages such as Python and JavaScript, I now feel prepared for a professional career with coding.
--  Coding has been a passion of mine for longer than I've studied it.  It has given me my toughest mental challenges while rewarding my desire to create - two things I cherish the most when it comes to enjoying what I do.
--  I’m looking to collaborate on everything!  I am here to learn and grow both personally and as a software developer.  Feel free to reach out if you need another mind to problem-solve.
--  I hope to be able to provide efficient and highly revered solutions and to create my own game some day soon as a passion project.
--  The best way to contact me is through my email (stokesk.swe@gmail.com), Linkedin (https://www.linkedin.com/in/keith-stokes-swe/), or through my website (https://pandabump.github.io/)!
+👋 Hello, world!  My name is Keith.
+-  🧠 I've been educating myself through collegiate and self-driven studies for over 7 years now.  I love it and look forward to continuing my studies every day!
+-  🎨 To me, programming is one of the most challenging yet expressive forms of art.  I aspire to make masterpieces one day.
+-  🌱 I am currently learning more about Machine Learning on the side, but am focused on strengthening my overall fundamentals.
+-  🏠 When I am not honing my programming skills and figuring out ways to apply them, you can find me spending time with family, enjoying great music, making digital art, gaming, and working out.
+-  🤝 I’m looking to collaborate on everything!  I am here to learn and grow both personally and as a software engineer.
+-  📨 The best ways to contact me is through:
+   - Email (stokesk.swe@gmail.com) 
+   - Linkedin (https://www.linkedin.com/in/keith-stokes-swe/)
+   - My Website (https://pandabump.github.io/)
+   - Discord 
 
 <!---
 PandaBump/PandaBump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
